@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react1",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Darshan Gummadi",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/darshangummadi/namaste-react1.git)"
+  },
+  "keywords": [
+    "React",
+    "namaste-react",
+    "beginner"
+  ],
+  "author": "Darshan Gummadi",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
